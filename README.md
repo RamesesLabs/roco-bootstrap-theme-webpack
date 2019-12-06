@@ -1,10 +1,10 @@
-# Bootstrap 4 Starter Pack (BETA 4.0.0)
+# Bootstrap 4 Webpack Starter Pack 
 
-Latest version of Bootstrap 4! Automation with Gulp and support for sass!
+Latest version of Bootstrap 4! Automation with Webpack and support for sass!
 
 ### Version
 
-2.0.0
+1.0.0
 
 ## Install Dependencies
 
@@ -15,7 +15,7 @@ npm install
 ## Compile Sass & Run Dev Server
 
 ```bash
-npm start
+npm run dev
 ```
 
-Files are compiled into /src
+Files are compiled into /build file
